@@ -1,8 +1,8 @@
-// AdvertisersForm.js
+
 import React from 'react';
 import { useForm } from 'react-hook-form';
 import { Button, TextField ,Typography} from '@mui/material';
-import './AdvertisersForm.css'; // Assuming this is the filename of your CSS file
+import './AdvertisersForm.css'; 
 
 function AdvertisersForm() {
   const {
